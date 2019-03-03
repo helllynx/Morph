@@ -34,7 +34,7 @@ node_storage.dispatch({
     'Type': 'CreateNode',
     'NodeModel': 'DummyNode',
     'NodeId': 0,
-    'Metadata': {'Name': 'Арсений,', 'PositionX': 100, 'PositionY': 100}
+    'Metadata': {'Name': 'Леха,', 'PositionX': 100, 'PositionY': 100}
 })
 
 node_storage.dispatch({
